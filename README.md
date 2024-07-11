@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/saran-99629/saran-99629/output/snake.svg"" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/saran-99629/saran-99629/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -83,8 +83,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="0" src="https://drive.google.com/file/d/1HPjQ_hqKQeR_VBSZXbWCIscJTvMhSfZ2/view?usp=drive_link"  />
-</div>
+
 
 ###

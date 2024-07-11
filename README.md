@@ -71,7 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/saran-99629/saran-99629/output/snake.svg" alt="Snake animation" />
 
 ###
 

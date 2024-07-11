@@ -70,21 +70,4 @@
 
 ###
 
-<img align="right" height="0" src=""  />
 
-###
-
-<br clear="both">
-
-
-###
-
-
-
-###
-
-<br clear="both">
-
-
-
-###
